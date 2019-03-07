@@ -1,5 +1,6 @@
 # rm-challenge-events
 JavaScript functions used to support game created in Lectora, an eLearning authoring tool.
+
 JSCode randomly selects a scenario that Lecotra presents to player, details of scenario are stored in an array.
 Player Accepts or Rejects scenario.
 If Rejects, game presents another scenario.
